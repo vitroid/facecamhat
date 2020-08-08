@@ -1,0 +1,11 @@
+python3-pip
+python3-picamera
+python3-numpy
+libatlas-base-dev
+libilmbase-dev
+libopenexr-dev
+libhdf5-dev
+libjasper-dev
+libavformat-dev
+libswscale-dev
+libqt4-dev
