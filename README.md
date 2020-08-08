@@ -8,6 +8,8 @@ picameraで撮影し、opencvで顔認識し、顔の部分だけをunicornhathd
 
 ## Installation
 
+もっぱら大変なのは、OpenCVをRaspbian上で動くようにする準備。
+
 ```shell
 % make install
 ```
