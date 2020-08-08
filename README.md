@@ -17,3 +17,7 @@ picameraで撮影し、opencvで顔認識し、顔の部分だけをunicornhathd
 ```shell
 python3 camera_opencv.py
 ```
+
+## Sample
+
+![](https://i.gyazo.com/f6978ffdba7bf8b2458c547d57970b7f.jpg)
